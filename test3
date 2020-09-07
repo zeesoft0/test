@@ -1,0 +1,22 @@
+{
+  "locale": ["en-US"],
+  "messages": {
+    "attachments.confirm.delete.title": "Delete Content?",
+    "attachments.errors.unexpected.title": "Error Loading Attachments",
+    "banner.nuxContent.createTemplate": "Create Template",
+    "banner.nuxContent.createTemplateButton": "Create My First Template",
+    "banner.nuxContent.createTemplateTitle": "Create Your First Email Template",
+    "banner.welcomeContent.login": "Log In",
+    "baseSelect.all": "All",
+    "baseSelect.basicInformation": "Basic Information",
+    "baseSelect.customFields": "Custom Fields",
+    "baseSelect.dateInformation": "Date Information",
+    "baseSelect.email": "Email",
+    "baseSelect.mobile": "Mobile",
+    "baseSelect.other": "Other",
+    "baseSelect.personal": "Personal",
+    "baseSelect.senderInformation": "Sender Information",
+    "baseSelect.unsubscribes": "Unsubscribes",
+    "baseSelect.work": "Work"
+  }
+}
