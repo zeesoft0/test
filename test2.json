@@ -1,0 +1,17 @@
+{
+  "locale": ["en-US"],
+  "messages": {
+    "banner.welcomeContent.login": "Log In",
+    "baseSelect.all": "All",
+    "baseSelect.basicInformation": "Basic Information",
+    "baseSelect.customFields": "Custom Fields",
+    "baseSelect.dateInformation": "Date Information",
+    "baseSelect.email": "Email",
+    "baseSelect.mobile": "Mobile",
+    "baseSelect.other": "Other",
+    "baseSelect.otherContactInformation": "Other Contact Information",
+    "baseSelect.personal": "Personal",
+    "baseSelect.unsubscribes": "Unsubscribes",
+    "baseSelect.work": "Work"
+  }
+}
