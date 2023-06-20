@@ -1,9 +1,0 @@
-{
-  "locale": [
-    "pt-PT"
-  ],
-  "messages": {
-    "banner.welcomeContent.login": "Log In",
-    "baseSelect.all": "All"
-  }
-}
